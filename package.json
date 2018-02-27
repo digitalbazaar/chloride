@@ -8,7 +8,7 @@
     "is-electron": "^2.0.0",
     "sodium-browserify": "^1.0.3",
     "sodium-browserify-tweetnacl": "^0.2.0",
-    "sodium-chloride": "^1.1.0"
+    "sodium-chloride": "digitalbazaar/sodium-chloride#genericHash"
   },
   "optionalDependencies": {
     "sodium-native": "^2.0.0"
